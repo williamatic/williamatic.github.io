@@ -1,0 +1,59 @@
+.header{
+    width:100%;
+    height:150px;
+}
+#logo{
+    width:400px;
+    padding:100px 0;
+    margin:0 auto;
+
+}
+.header .Wlcontact{
+    width:120px;
+    position:relative;
+    bottom:20px
+    margin:0 auto;
+}
+#tCreateTest {
+    background-color:#fff;
+    color: #333333;
+    padding: 0 0 2rem;
+}
+
+#submitTitle {
+    width:150px;
+    height:50px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+
+#addQuestion {
+    background-color:#fff;
+    color: #333333;
+    padding: 0 0 2rem;
+}
+#testDetails .form-group{
+    display:inline-flex;
+    padding:0 20px;
+}
+#addQuestion .form-group {
+    margin-bottom: 1rem;
+
+}
+#addQuestion .form-group label{margin-bottom:0;flex:1 0 30%;}
+#addQuestion .btn-group{display:flex;flex-wrap:wrap;}
+#customer-care{
+    width:100%;
+}
+#saveTestBtn{
+    width:150px;
+    height:50px;
+    align-items: center;
+    justify-content: space-around;
+    display:block;
+    margin:0 auto;
+}
+.input-group.md-form.form-sm.form-2 input.lime-border {
+    border: 1px solid #cddc39;
+  }
